@@ -41,4 +41,10 @@ body {
   #generate-btn:hover {
     background-color: #0056b3;
   }
+  @media only screen and (max-width: 768px) {
+    .container {
+      margin:20px;
+
+    }
+  }
   
